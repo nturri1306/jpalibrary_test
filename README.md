@@ -1,1 +1,1 @@
-"# jpalibrary_test" 
+prima versione di test per libreria jpa esterna 
